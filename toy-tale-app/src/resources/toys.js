@@ -1,4 +1,4 @@
-export let toys = [
+let toys = [
     {
       id: 1,
       name: 'Woody',
@@ -78,3 +78,5 @@ export let toys = [
       id: 23
     }
   ]
+
+  export default toys; 
